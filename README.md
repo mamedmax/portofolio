@@ -12,5 +12,5 @@
 
 
 ### As Middle Programmer at Enerren
-1. Unilever Digital Logistic web system [link](https://digitallogistic-uli.com)
-2. Gagas Energi [link](https://e-dispatch.gagas.co.id)
+1. [Unilever Digital Logistic web system](/enerren/digilog/README.md) [link](https://digitallogistic-uli.com)
+2. [Gagas Energi](/enerren/gagas/README.md) [link](https://e-dispatch.gagas.co.id)
