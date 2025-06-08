@@ -5,10 +5,10 @@
     - Payment system, integrating with payment gateway (Midtrans), payment ewallet (Ovo, Shopeepay)
     - Cashback system
 2. Famimax, Android-based mini POS handheld app.
-3. FamiCafe QR table dine-in web ordering system.
-4. FamiLink, internal mobile app on FMI for day-to-day task and monitoring operations.
+3. [FamiCafe QR table dine-in web ordering system](/fmi/famicafe-dinein/README.md)
+4. [FamiLink, internal mobile app on FMI for day-to-day task and monitoring operations](/fmi/familink/README.md)
 5. Kiosk Robot Barista
-6. Kiosk Smoothies Blender
+6. [Kiosk Smoothies Blender](/fmi/kiosk-smoothies-blender/README.md)
 7. [Golang module SDK wrapper for thermal printer][Gitlab Receipt Printer module]
 
 
